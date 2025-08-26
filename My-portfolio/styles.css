@@ -44,6 +44,7 @@ img{max-width:100%;display:block}
 /* Education */
 .edu-list{list-style:none;margin:0;padding:0;display:grid;gap:12px}
 .edu-list li{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px}
+.edu-list .grade{color:var(--brand);font-weight:600;margin:4px 0 0;font-size:14px}
 
 /* Projects */
 .projects-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
